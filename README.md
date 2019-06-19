@@ -22,5 +22,7 @@ pygame-menu
 ```
 python3 evolving_enemies.py
 ```
-
+<p align="center">
+  <img width="650" height="300" src="https://github.com/NeonInc/Adaptive-Gameplay/blob/master/Images/Main_Menu.png">
+</p>
 
