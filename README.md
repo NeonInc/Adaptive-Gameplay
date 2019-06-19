@@ -9,6 +9,8 @@ The enire behavior of the enemy is coded in the structure of a chromosome.
   <img width="650" height="300" src="https://github.com/NeonInc/Adaptive-Gameplay/blob/master/Images/Chromosome_Attributes.png">
 </p>
 
+Genes 0-5 are in binary while Gene 6 is in decimal.
+
 ### Dependencies (pip install)
 ```
 pygame
