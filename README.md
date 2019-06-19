@@ -9,7 +9,8 @@ The enire behavior of the enemy is coded in the structure of a chromosome.
   <img width="650" height="300" src="https://github.com/NeonInc/Adaptive-Gameplay/blob/master/Images/Chromosome_Attributes.png">
 </p>
 
-Genes 0-5 are in binary while Gene 6 is in decimal.
+Genes 0 - 5 are in binary format with 0 being the respective option disabled and 1 being being the respective option enabled.
+Gene 6 is in decimal format to record the fitness value of the chromosome.
 
 ### Dependencies (pip install)
 ```
