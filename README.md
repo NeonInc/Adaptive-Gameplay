@@ -31,6 +31,15 @@ The Main Menu allows the players to navigate to Play Menu and the Help and About
 </p>
 
 #### Play Menu
+
+In the Play Menu, players can change game difficulty and the mutation rate of the Genetic Algorithm. Changing game difficulty adjusts parameters such as player firing rate and enemy firing rate. Increasing the mutation rate will cause more genes to be mutated and thus, causing more diversification in the population.
+
 <p align="center">
   <img width="640" height="480" src="https://github.com/NeonInc/Adaptive-Gameplay/blob/master/Images/Play_Menu.png">
+</p>
+
+#### In-Game Screenshot
+
+<p align="center">
+  <img width="640" height="480" src="https://github.com/NeonInc/Adaptive-Gameplay/blob/master/Images/Game_Screenshot.png">
 </p>
