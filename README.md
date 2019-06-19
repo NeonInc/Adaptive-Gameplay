@@ -1,7 +1,7 @@
-# Adaptive-Gameplay
-## Evolving Enemies
+# Evolving Enemies
+## Using a Genetic Algorithm to control Enemy behavior in Video Games
 
-Using a Genetic Algorithm to control Enemy behavior in Video Games
+
 
 
 
