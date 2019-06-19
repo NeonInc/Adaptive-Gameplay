@@ -22,7 +22,15 @@ pygame-menu
 ```
 python3 evolving_enemies.py
 ```
+#### Main Menu
+
+The Main Menu allows the players to navigate to Play Menu and the Help and About Menus. The Help Menu details the game controls while About Menu lists game information.
+
 <p align="center">
   <img width="640" height="480" src="https://github.com/NeonInc/Adaptive-Gameplay/blob/master/Images/Main_Menu.png">
 </p>
 
+#### Play Menu
+<p align="center">
+  <img width="640" height="480" src="https://github.com/NeonInc/Adaptive-Gameplay/blob/master/Images/Play_Menu.png">
+</p>
