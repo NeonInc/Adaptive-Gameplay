@@ -40,6 +40,8 @@ In the Play Menu, players can change game difficulty and the mutation rate of th
 
 #### In-Game Screenshot
 
+In-Game screenshot of Evolving Enemies
+
 <p align="center">
   <img width="640" height="480" src="https://github.com/NeonInc/Adaptive-Gameplay/blob/master/Images/Game_Screenshot.png">
 </p>
