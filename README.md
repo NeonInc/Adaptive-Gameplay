@@ -8,6 +8,10 @@ This code uses the concepts of Genetic Algorithms such as Selection, Crossover a
 pygame
 pygame-menu
 ```
+### Usage
 
+```
+python3 evolving_enemies.py
+```
 
 ![alt text](https://github.com/NeonInc/Adaptive-Gameplay/blob/master/Play_Menu.png)
