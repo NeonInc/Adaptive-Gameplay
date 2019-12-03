@@ -15,7 +15,7 @@ Gene 6 is in decimal format to record the fitness value of the chromosome.
 ### Dependencies (pip install)
 ```
 pygame
-pygame-menu
+pygame-menu==1.96.1
 ```
 ### Usage
 
